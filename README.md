@@ -1,6 +1,4 @@
-Perfect — I understand the format now 👍
-Below is your **Weather project GitHub content written in the *exact same style and structure*** as your Retail project.
-You can **copy–paste this directly** into your README.
+
 
 ---
 
