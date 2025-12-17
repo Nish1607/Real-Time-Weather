@@ -167,4 +167,14 @@ Example views:
 
 The **Real-Time Weather & Air Quality Insights Dashboard** demonstrates a complete analytics workflow — from **live API ingestion and automated ETL pipelines** to **data modeling and interactive BI reporting**.This project highlights skills in **data engineering, SQL, Python automation, DAX, and Power BI**, and reflects real-world practices used in production analytics environments.
 
+---
+## 📬 Contact
+
+**Nishi Patel**  
+Data Analyst | SQL • Python • Power BI  
+
+🔗 LinkedIn: www.linkedin.com/in/nishipatel09
+
+🔗 GitHub: https://github.com/Nish1607 
+
 
